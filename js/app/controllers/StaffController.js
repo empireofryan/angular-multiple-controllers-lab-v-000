@@ -1,9 +1,9 @@
 function StaffController() {
   var vm = this;
 
-  vm.name = 'Marty McFly';
-  vm.email = 'marty@msn.net';
-  vm.phone = '555-778-8994';
+  vm.name = 'Jack Nicholson';
+  vm.email = 'jack@overlookhotel.com';
+  vm.phone = '123-456-7890';
 }
 
 angular
