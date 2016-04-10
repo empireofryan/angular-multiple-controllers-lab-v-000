@@ -6,6 +6,7 @@ function StaffController() {
   vm.phone = '123-456-7890';
 }
 
+
 angular
   .module('app')
   .controller('StaffController', StaffController);
